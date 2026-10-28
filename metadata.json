@@ -1,0 +1,8 @@
+{
+  "name": "EnRuta Enterprise - SaaS de Gestión de Carteras y Microcréditos VIP",
+  "description": "Plataforma corporativa de gestión de carteras de alto volumen, auditoría criptográfica, ruteo GPS y control de mora en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
